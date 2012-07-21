@@ -1,0 +1,1 @@
+python draw_fx/draw.py foto.jpg desenho.jpg -v
