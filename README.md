@@ -1,11 +1,8 @@
 # Antes de tudo, instale o Python em:
-
 ## [http://www.activestate.com/activepython/downloads](http://www.activestate.com/activepython/downloads)
 
 # Uso simples no Windows
-
 ## Insira dentro de uma pasta qualquer:
-
 - A pasta draw_fx
 - O arquivo draw.bat
 - A foto com o nome de foto.jpg
@@ -13,7 +10,6 @@
 Dê um duplo clique no arquivo draw.bat
 
 # Uso avançado no Windows
-
 ## Insira dentro de uma pasta qualquer:
 - A pasta draw_fx
 - Tecle Windows + r
@@ -26,7 +22,6 @@ Dê um duplo clique no arquivo draw.bat
 - alpha: regulagem para desfocagem da transparencia do filtro draw
 
 # Uso simples no Linux ou Mac
-
 ## Insira dentro de uma pasta qualquer:
 - A pasta draw_fx
 - O arquivo draw.sh
@@ -35,7 +30,6 @@ Dê um duplo clique no arquivo draw.bat
 Execute o arquivo draw.sh
 
 # Uso avançado no Linux ou Mac
-
 ## Insira dentro de uma pasta qualquer:
 - A pasta draw_fx
 - Abra o terminal
